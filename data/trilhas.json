@@ -1,1 +1,181 @@
-[]
+[
+  {
+    "tecnologia": "Python",
+    "nivel": "iniciante",
+    "modulos": [
+      "Introdução à linguagem",
+      "Sintaxe básica",
+      "Estruturas de dados",
+      "Funções",
+      "Projetos simples"
+    ]
+  },
+  {
+    "tecnologia": "Python",
+    "nivel": "intermediário",
+    "modulos": [
+      "Manipulação de arquivos",
+      "Programação orientada a objetos",
+      "Tratamento de erros",
+      "APIs e requisições",
+      "Projeto intermediário"
+    ]
+  },
+  {
+    "tecnologia": "JavaScript",
+    "nivel": "iniciante",
+    "modulos": [
+      "Variáveis e operadores",
+      "Funções",
+      "DOM básico",
+      "Eventos",
+      "Mini projetos"
+    ]
+  },
+  {
+    "tecnologia": "JavaScript",
+    "nivel": "intermediário",
+    "modulos": [
+      "Manipulação avançada do DOM",
+      "APIs",
+      "Fetch e Promises",
+      "SPA",
+      "Projeto intermediário"
+    ]
+  },
+  {
+    "tecnologia": "HTML & CSS",
+    "nivel": "iniciante",
+    "modulos": [
+      "Tags básicas",
+      "Formulários",
+      "Layouts",
+      "Flexbox",
+      "Responsividade"
+    ]
+  },
+  {
+    "tecnologia": "HTML & CSS",
+    "nivel": "avançado",
+    "modulos": [
+      "CSS Grid",
+      "Animações",
+      "Design avançado",
+      "Boas práticas",
+      "Projeto avançado"
+    ]
+  },
+  {
+    "tecnologia": "Java",
+    "nivel": "iniciante",
+    "modulos": [
+      "Sintaxe básica",
+      "Tipos de dados",
+      "Estruturas de controle",
+      "POO básica",
+      "Projeto simples"
+    ]
+  },
+  {
+    "tecnologia": "Java",
+    "nivel": "intermediário",
+    "modulos": [
+      "Coleções",
+      "Tratamento de exceções",
+      "Streams",
+      "APIs",
+      "Projeto intermediário"
+    ]
+  }
+]
+[
+  {
+    "tecnologia": "Python",
+    "nivel": "iniciante",
+    "modulos": [
+      "Introdução à linguagem",
+      "Sintaxe básica",
+      "Estruturas de dados",
+      "Funções",
+      "Projetos simples"
+    ]
+  },
+  {
+    "tecnologia": "Python",
+    "nivel": "intermediário",
+    "modulos": [
+      "Manipulação de arquivos",
+      "Programação orientada a objetos",
+      "Tratamento de erros",
+      "APIs e requisições",
+      "Projeto intermediário"
+    ]
+  },
+  {
+    "tecnologia": "JavaScript",
+    "nivel": "iniciante",
+    "modulos": [
+      "Variáveis e operadores",
+      "Funções",
+      "DOM básico",
+      "Eventos",
+      "Mini projetos"
+    ]
+  },
+  {
+    "tecnologia": "JavaScript",
+    "nivel": "intermediário",
+    "modulos": [
+      "Manipulação avançada do DOM",
+      "APIs",
+      "Fetch e Promises",
+      "SPA",
+      "Projeto intermediário"
+    ]
+  },
+  {
+    "tecnologia": "HTML & CSS",
+    "nivel": "iniciante",
+    "modulos": [
+      "Tags básicas",
+      "Formulários",
+      "Layouts",
+      "Flexbox",
+      "Responsividade"
+    ]
+  },
+  {
+    "tecnologia": "HTML & CSS",
+    "nivel": "avançado",
+    "modulos": [
+      "CSS Grid",
+      "Animações",
+      "Design avançado",
+      "Boas práticas",
+      "Projeto avançado"
+    ]
+  },
+  {
+    "tecnologia": "Java",
+    "nivel": "iniciante",
+    "modulos": [
+      "Sintaxe básica",
+      "Tipos de dados",
+      "Estruturas de controle",
+      "POO básica",
+      "Projeto simples"
+    ]
+  },
+  {
+    "tecnologia": "Java",
+    "nivel": "intermediário",
+    "modulos": [
+      "Coleções",
+      "Tratamento de exceções",
+      "Streams",
+      "APIs",
+      "Projeto intermediário"
+    ]
+  }
+]
+
