@@ -11,6 +11,7 @@ O **Geo-Explorer** é um projeto desenvolvido no desafio da DIO para demonstrar:
 ---
 
 ## 📁 Estrutura do Projeto
+
 Geo-explorer/
 │
 ├── data/
